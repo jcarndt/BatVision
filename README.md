@@ -28,7 +28,7 @@ PS > BatVision.ps1 file.cmd
 ```
 
 ## Output
-BatVision.ps1 will create a new deobfuscated file in the same location as the original file. It will have the '_deobfuscated' added to the file name.
+BatVision.ps1 will create a new deobfuscated file in the same location as the original file. It will have the word '_deobfuscated' added to the file name.
 Note: Claude AI helped to create this script and decided to create all of this fancy ouput. 
 
 ![screenshot](BatPics/output.JPG)
