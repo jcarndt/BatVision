@@ -35,3 +35,7 @@ Note: Claude AI helped to create this script and decided to create all of this f
 
 ## Warning
 Deobfuscators such as this are very brittle in that all the attacker has to do is change things up on his end and BatVision.ps1 will not work any more. But until then, happy hunting!
+
+## Finally...
+
+![screenshot](BatPics/batquote.JPG)
