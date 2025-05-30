@@ -7,10 +7,10 @@ Deobfuscate .bat/.cmd files which have been obfuscated by BatCloak.
 
 ## What is BatCloak?
 BatCloak is a tool which obfuscates .bat/.cmd files into something that looks like this:
-![screenshot](BatPics/Obfuscated.jpg)
+![screenshot](BatPics/Obfuscated.JPG)
 
 BatVision.ps1 will remove the extraneous characters into something like this:
-![screenshot](BatPics/Deobfuscated.jpg)
+![screenshot](BatPics/Deobfuscated.JPG)
 
 ## Instructions:
 
@@ -27,4 +27,4 @@ PS > BatVision.ps1 file.cmd
 
 ## Output
 BatVision.ps1 will create a new deobfuscated file in the same location as the original file. It will have the '_deobfuscated' added to the file name.
-![screenshot](BatPics/output.jpg)
+![screenshot](BatPics/output.JPG)
